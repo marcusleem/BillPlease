@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <String name="pax">Enter number of pax:</String>
+    <String name="price">Enter price($):</String>
+
+
+</resources>
